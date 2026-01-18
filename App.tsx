@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Section } from './types';
-import Navigation from './components/Navigation';
+
 import Hero from './components/Hero';
 import About from './components/About';
 import Vision from './components/Vision';
